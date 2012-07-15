@@ -1,4 +1,4 @@
-shiritori.py : k 一般化しりとりソルバ
+k-shiri.py : k 一般化しりとりソルバ
 generate.rb    : k 一般化しりとり可能な単語集合を生成
 
 ========
